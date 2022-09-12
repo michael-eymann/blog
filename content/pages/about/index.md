@@ -1,13 +1,9 @@
 +++
-title = "About me"
+title = "Über das Projekt"
 draft = false
-description = ""
 image = ""
+description = ""
 +++
-![](/img/default-author.jpg)
+## Artikel aus der Blockwoche
 
-## My Name
-
-mail@example.org
-
-Here should be some info about me...
+Hier entsteht eine Sammlung an Artikeln aus der Blockwoche der G26g.

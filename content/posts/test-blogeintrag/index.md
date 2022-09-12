@@ -8,4 +8,4 @@ footnotes = "Das ist eine Fussnote."
 +++
 # Blogeinträge
 
-So sieht ein neuer Blogeintrag mit einem aus einer URL eingefügten Bild ein.
+So sieht ein neuer Blogeintrag mit einem aus einer Datei eingefügten Bild ein.

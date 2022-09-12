@@ -3,7 +3,7 @@ title = "Test-Blogeintrag"
 date = "2022-09-12"
 draft = false
 pinned = true
-image = "https://upload.wikimedia.org/wikipedia/commons/0/02/Queen_-_Freddie_Mercury.jpg"
+image = "queen_-_freddie_mercury.jpg"
 footnotes = "Das ist eine Fussnote."
 +++
 # Blogeinträge

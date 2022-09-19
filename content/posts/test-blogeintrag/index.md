@@ -1,9 +1,11 @@
 +++
-title = "Test-Blogeintrag"
-date = "2022-09-12"
-draft = false
+title = "Test Eichhörnchen "
+date = "2022-09-19"
+draft = true
 pinned = true
-image = "queen_-_freddie_mercury.jpg"
+tags = ["EichhörnchenImSchnee"]
+image = "eichho-rnchen.avif"
+description = "Eichhörnchen im Schnee frisst Karotte: Nachbarschaft ist empört!"
 footnotes = "Das ist eine Fussnote."
 +++
 # Blogeinträge

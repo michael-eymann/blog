@@ -1,5 +1,5 @@
 +++
-title = "Test Eichhörnchen "
+title = "Test Eishörnchen "
 date = "2022-09-19"
 draft = false
 pinned = true

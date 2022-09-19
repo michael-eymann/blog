@@ -1,7 +1,7 @@
 +++
 title = "Test Eichhörnchen "
 date = "2022-09-19"
-draft = true
+draft = false
 pinned = true
 tags = ["EichhörnchenImSchnee"]
 image = "eichho-rnchen.avif"

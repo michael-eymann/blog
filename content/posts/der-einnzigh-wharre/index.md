@@ -2,7 +2,7 @@
 title = "Der einnzigh Wharre"
 date = "2022-09-19"
 draft = false
-pinned = false
+pinned = true
 +++
 I﻿ch bin hier der einzig Wahre Babo. Wer was anderes denkt is' doof.
 

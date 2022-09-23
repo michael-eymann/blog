@@ -73,7 +73,7 @@ collections:
           widget: "image",
           required: false,
           hint: "Bild für Blogübersicht, Suchmaschinen und Social Media.",
-          media_library: { config: { max_file_size: 256000 } },
+          media_library: { config: { max_file_size: 512000 } },
         }
       - {
           name: "description",
@@ -86,7 +86,7 @@ collections:
           name: "body",
           label: "Inhalt",
           widget: "markdown",
-          media_library: { config: { max_file_size: 512000 } },
+          media_library: { config: { max_file_size: 1024000 } },
         }
       - {
           name: "footnotes",
@@ -135,7 +135,7 @@ collections:
           widget: "image",
           required: false,
           hint: "Bild für Suchmaschinen und Social Media.",
-          media_library: { config: { max_file_size: 256000 } },
+          media_library: { config: { max_file_size: 512000 } },
         }
       - {
           name: "description",
@@ -148,7 +148,7 @@ collections:
           name: "body",
           label: "Inhalt",
           widget: "markdown",
-          media_library: { config: { max_file_size: 512000 } },
+          media_library: { config: { max_file_size: 1024000 } },
         }
       - {
           name: "footnotes",
@@ -274,7 +274,7 @@ collections:
               widget: image,
               required: false,
               hint: "Hintergrundbild für die Startseite.",
-              media_library: { config: { max_file_size: 512000 } },
+              media_library: { config: { max_file_size: 1024000 } },
             }
           - {
               label: "Farbe",

@@ -4,7 +4,7 @@ date = "2022-09-23"
 draft = false
 pinned = false
 tags = ["Montreux", "SchlossChillon", "Waadtland", "Genfersee"]
-image = "scloss-chillon.jpg"
+image = "scloss-chillon-1-.jpg"
 +++
 ### G﻿eschichte des Waadts
 

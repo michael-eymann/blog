@@ -10,3 +10,9 @@ Wie jede Stadt hat Lausanne auch eine schöne Altstadt. Aber was ist eigentlich 
 **U﻿nsere Eindrücke**
 
 Uns hat die Altstadt sehr gefallen, da uns die Architektur angesprochen hat und sie uns an die Berner Altstadt erinnert hat. Die Aussicht von der Plattform der Kathedrale Notre-Dame war sehr eindrücklich, denn man konnte die ganze Stadt und den Genfersee überblicken. Etwas anstrengend war das Hochlaufen und Treppensteigen, bis man zur Notre-Dame gelangte. Sehr schön waren die kleinen Läden, die man entdecken konnte.
+
+
+
+
+
+![](img_6263-1-.jpg)

@@ -11,7 +11,7 @@ Das Musée Olympique in Lausanne ist direkt am Genfersee gelegen. Das Museum wur
 
 Die Ausstellung ist auf drei Stockwerke aufgeteilt. In jeder Etage ist ein anderer Abschnitt des Themas. In der obersten Etage hat man eine wunderbare Übersicht über alle olympischen Fackeln. Jede einzelne ist hier zu sehen. Es wird über die Erbauung der Stadien und über die Aufnahmen berichtet. Auch die Zeremonien, wie der Fackelmarsch wird nicht ausgelassen.
 
-![](bild-muse-1.jpeg)
+![](bild-muse-1-1-.jpeg)
 
 ### S﻿portarten
 

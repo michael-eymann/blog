@@ -20,3 +20,5 @@ In der zweiten Etage sind alle Fakten über die Sportarten. Fast jede erdenklich
 ### Interaktiv
 
 In der ersten und der untersten Etage gibt es Aktivitäten. Man kann Skifahren in einer Simulation und man kann seine Reflexe testen. Man kann Fahrrad fahren und sich entspannen in bequemen Stühlen mit einer sehr ruhigen Stimme in den Ohren. Aber das war nicht Pflicht denn die Kopfhörer konnte man abnehmen. Es war meine Lieblingsetage, weil man so viel machen konnte.
+
+![](bild-muse-2.jpeg)

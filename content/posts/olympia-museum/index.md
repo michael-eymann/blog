@@ -5,9 +5,7 @@ draft = false
 pinned = false
 image = "titel.jpeg"
 +++
-Das Musée Olympique in Lausanne ist direkt am Genfersee gelegen. Das Museum wurde im 23. Juni 1993 eröffnet. Doch im Jahr 2013 wurde das Museum umgebaut. Es gab neue Themen und die riesige Parkanlage wurde erweitert.Bi2'607'413 Menschen das Olympische Museum. Unsere klasse besuchte am letzten Tag in unserer schulreise das Museum wir haben unsere Eindrücke in diesem Blog Zusammengefasst.
-
-![](bild-muse-1-4-.jpeg)
+Das Musée Olympique in Lausanne ist direkt am Genfersee gelegen. Das Museum wurde im 23. Juni 1993 eröffnet. Doch im Jahr 2013 wurde das Museum umgebaut. Es gab neue Themen und die riesige Parkanlage wurde erweitert. Insgesamt besuchten 2'607'413 Menschen das Olympische Museum. Unsere klasse besuchte am letzten Tag in unserer schulreise das Museum wir haben unsere Eindrücke in diesem Blog Zusammengefasst.
 
 ### A﻿llgemeines
 
@@ -20,5 +18,3 @@ In der zweiten Etage sind alle Fakten über die Sportarten. Fast jede erdenklich
 ### Interaktiv
 
 In der ersten und der untersten Etage gibt es Aktivitäten. Man kann Skifahren in einer Simulation und man kann seine Reflexe testen. Man kann Fahrrad fahren und sich entspannen in bequemen Stühlen mit einer sehr ruhigen Stimme in den Ohren. Aber das war nicht Pflicht denn die Kopfhörer konnte man abnehmen. Es war meine Lieblingsetage, weil man so viel machen konnte.
-
-![](bild-muse-2.jpeg)

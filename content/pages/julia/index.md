@@ -1,6 +1,6 @@
 +++
-title = "Julia"
+title = "Julia die Eiskunstläuferi"
 draft = false
 footnotes = "[Zurück](/about/) zur Übersicht"
 +++
-Portrait
+Julia, ist eine fröhliche Schülerin, die gerne in die Schule geht und auch keine Probleme mit Tests hat, denn sie bereitet sich immer genügend früh darauf vor. Im Winter Eiskunstlaufen gefällt ihr sehr, ausserdem geht sie gerne mit ihren Kolleginnen raus oder geht ins Hallenbad Hirschengraben schwimmen.  Essen tut sie gern und viel, auch schaut sie gerne Komödien, Action oder Liebesfilme, doch dies heisst nicht, dass sie nicht gerne lesen würde, denn das tut sie. Ihr Lieblingsbuch ist Maya und Domenico, jedoch ist sie kein fan von Gregs Tagebuch, da es viel zu viele Bilder hat. Sie lebt mit ihrer kleinen Schwester, Ihrer Mutter und Ihrem Vater zusammen. Musik hört sie sehr gerne, sie hört Musik mit aber auch ohne Kolleginnen. Sie ist eine Tagträumerin und leicht abwesende Person, doch beides hat keinen Einfluss auf die Schule. Julia ist sehr schüchtern und daher hat sie es auch gar nicht gerne vor der Klasse etwas vorzutragen. Sie ist hilfsbereit und aufmunternd. 

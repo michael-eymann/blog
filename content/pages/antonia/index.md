@@ -1,6 +1,6 @@
 +++
-title = "Antonia"
+title = "Antonia die Mückenhasserin"
 draft = false
 footnotes = "[Zurück](/about/) zur Übersicht"
 +++
-Portrait
+Antonia ist 14 Jahre alt und wohnt mit ihren Eltern und mit ihren zwei Schwestern in Bern. Hauptsächlich ist sie Schweizerin, kommt aber auch zu ¼ aus Holland. Sie hat als Haustiere einen Hund und vier Meerschweinchen. Ihr Lieblingstier ist das Pferd, aber Mücken hasst sie. Besonders gerne isst sie Fajitas, aber ohne Käse, denn den kann sie gar nicht ausstehen. Früher machte sie Leichtathletik und ging in einen Turnverein, jetzt spielt sie nur noch Geige. Wenn sie gerade nicht in der Schule ist oder für die Schule lernt, hört sie gerne Musik oder zeichnet auf ihrem iPad. Ihre liebsten Fächer in der Schule sind BG und Musik. Musik hat sie auch als Schwerpunktfach gewählt. Wie ihr späteres Leben aussehen soll, weiss sie noch nicht genau. Was sie aber schon weiss ist, dass sie im Tessin wohnen möchte und eine West Highland White Terrier als Haustier haben möchte. Ihren Traumberuf hat sie noch nicht entdeckt, eine Option wäre aber Lehrerin.

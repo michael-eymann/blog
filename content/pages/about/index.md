@@ -10,6 +10,6 @@ Hier entsteht eine Sammlung an Artikeln aus der Blockwoche der G26g.
 
 ## Portraits
 
-[/batman/](/batman/)
+[Batman](/batman/)
 
-[/superman/](/superman/)
+[Superman](/superman/)

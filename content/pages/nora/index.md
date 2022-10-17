@@ -8,3 +8,7 @@ Noch nie, in den fast 5 Wochen am Kirchenfeld hat sie es geschafft durch die gro
 Wenn sie ausnahmsweise mal nicht über den 31. Bus schimpft, macht sie vermutlich zuhause eine Küchen-Dance-Party gemeinsam mit ihren Freundinnen oder ihrer Katze «Khaleesi».  
 
 Als sie klein war hat sie davon geträumt Prinzessin zu werden und die Welt zu einem besseren Ort machen, heute geht sie lieber an Demos und setzt sich aktiv für gute Zwecke ein. Nicht einmal ihre aggressive Pollenallergie kann sie davon abhalten gutes zu tun.
+
+
+
+geschrieben von Helen

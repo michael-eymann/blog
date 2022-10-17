@@ -1,6 +1,7 @@
 +++
-title = "Sven"
+title = "Sven - Sydney"
 draft = false
 footnotes = "[Zurück](/about/) zur Übersicht"
 +++
-Portrait
+
+ Sven aka Sydney spielt liebend gerne Tennis aber leider nicht im Club. Er setzt sich aber das Ziel irgendwann mal in einem Club zu spielen. Er wohnt mit seinen Eltern und seiner Schwester in Ostermundigen. Sven ist gerne unter Menschen und teilt seine Leidenschaften gerne. Mit seinen Freunden spielt er gerne Tennis und geht ab und zu auch mal Standup paddeln. Seine Familie hat ein kleines Ferienhäuschen am Neuenburgersee, an welchem alle Wasseraktivitäten durchgeführt werden. In den letzten Wochen ist mir Sven als sehr aufmerksamer Mensch aufgefallen. Er ist selten nicht bei der Sache und wenn er mal abdriftet, bekommt er das sehr schnell wieder in den Griff. Den Weg über das Gymnasium hat Sven eingeschlagen, weil er seine Ziele ohne Grenzen verfolgen will. Sven hat eine Zuneigung zu Tieren und deswegen will er Zoologe werden. Auch im musikalischen Bereich ist Sven unterwegs. Er hört gerne Musik und hat einen sehr bunten Musikgeschmack. Imagine Dragons hört Sven jedoch am liebsten. Die Musik gehört zu Svens Alltag und ist eigentlich nicht mehr weg zu denken.

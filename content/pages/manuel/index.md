@@ -1,6 +1,6 @@
 +++
-title = "Manuel"
+title = "Manuel - der Ronaldofan"
 draft = false
 footnotes = "[Zurück](/about/) zur Übersicht"
 +++
-Portrait
+Der seit acht Jahren beim FC Wabern Fussball spielende Manuel geht gerne ins Gymnasium Kirchenfeld. Was ihn aber stört, sind die Tests, die er leider schreiben muss. Er lernt nicht so gerne und viel zu spät, bekommt aber meistens trotzdem gute Noten. Wenn Manuel mit dem Velo zur Schule fährt, hört er sehr gerne Musik. Auch wenn er Zuhause ist oder joggen geht, hört er verschiedene Musik, doch Schlager, Country und Techno hört er gar nicht. Bücher liest er weniger gern, weil er zu langsam liest. Was das Essen angeht, liebt Manuel Pizza prosciutto und Nudeln, aber Nudeln ohne irgendeine Sauce schmecken ihm überhaupt nicht. Manuel ist hilfsbereit, nett und humorvoll, doch nicht alle finden seinen Humor lustig. Er hat das Schwerpunktfach BG genommen und zeichnet gerne ab, vor allem Gesichter mit Bleistift. Manuel lebt mit seiner Mutter und seiner grösseren Schwester, die gerade in Zürich ein Zwischenjahr macht.

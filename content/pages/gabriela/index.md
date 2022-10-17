@@ -1,6 +1,6 @@
 +++
-title = "Gabriela"
+title = "Gabriela - für jeden Spass zu haben"
 draft = false
 footnotes = "[Zurück](/about/) zur Übersicht"
 +++
-Portrait
+Gabriela wohnt zwar in der Stadt, beschreibt sich jedoch als «zweni sozial für so viu lüt» als halb-brasilianerin kann sie natürlich fliesend portugiesisch sprechen. Als sie 8 Jahre alt war hat sie sogar für ein Jahr in Brasilien gelebt. Zu ihren Lieblingsbeschäftigungen gehören Horrorfilme, welche wöchentlich anschaut. Von «truth or dare» bis «Friday the 13th» hat sie so ziemlich alles gesehen. Ihr sind gute Leistungen in der Schule sehr wichtig, eine Note über 5 ist also Pflicht. Um dieses Ziel zu verfolgen, scheut sie sich nicht davor auch mal eine Nacht mit lernen zu verbringen. Durch ihre offene und freundliche Art herrscht mit ihr nie unangenehme stille, man findet immer ein Thema, über das man sich mit ihr unterhalten kann. Wenn sie mal nicht mit lernen oder Horrorfilmebeschäftigt ist, zeichnet sie sehr gerne und gut, daher hat sie auch BG als schwerpunktfach gewählt.

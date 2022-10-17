@@ -6,7 +6,6 @@ pinned = false
 tags = ["Queen", "Montreux", "Music", "MountainStudios"]
 image = "queen-montreux.jpg"
 +++
-
 ***Queen trifft auf Montreux:***
 
 1978 besucht die britische Band Queen zum ersten Mal Montreux, im Schweizer Waadtland. Nach ihrer Tournee zum Album «News oft the World» entscheiden sie sich das folgende Album in den «mountain studios» im Casino von Montreux aufzunehmen. Die band ist sehr begeistert von der ersten Aufnahme in Montreux, dass sie die Anlage in dem Dorf kurze Zeit später kaufen.
@@ -21,10 +20,8 @@ Anfang 1991 merkt Freddy, dass er den Kampf gegen Aids verlieren wird. Er verbri
 
 Nach dem Tod von Freddy Mercury am 24. November 1991 vergingen ein paar Jahre, bis die anderen Band Mitglieder zurück nach Montreux kamen und das Album fertigstellten. Es wurde ein Meisterwerk.
 
- 
-
 ***Unsere persönliche Erfahrung in den Montanis Studios:***
 
-Das Studio ist etwas versteckt im Casino, in einem Hinterzimmer. Es war recht klein und älter und im ehemaligen Studio waren Originalrequisiten ausgestellt.\
-Wir hatten persönlich mehr vom Studio vorgestellt und waren daher ein wenig enttäuscht. Das Studio war nicht mehr so schön erhalten und wir finden es schade, dass es umgebaut wurde und nicht so aussieht, wie in der Zeit wo es Queens benutzt hat.\
-Der Raum ist mehr wie eine Ausstellung von Queens, die trotzdem interessant ist und viele informative Dinge hat. Z.b. hingen alte Kostüme oder Texte von Liedern und andere verschiedene Requisiten mit ihnen verbunden.
+Das Studio ist etwas versteckt im Casino, in einem Hinterzimmer. Es war recht klein, schon älter und im ehemaligen Studio waren Originalrequisiten ausgestellt. \
+Wir hatten uns persönlich mehr vom Studio vorgestellt und waren daher ein wenig enttäuscht. Das Studio war nicht mehr so schön erhalten und wir finden es schade, dass es umgebaut wurde und nicht so aussieht, wie in der Zeit wo es Queen benutzt hat.\
+Der Raum ist mehr wie eine Ausstellung von Queen, die trotzdem interessant ist und viele informative Dinge hat. Z.b. hingen alte Kostüme oder Texte von Liedern und andere verschiedene Requisiten mit ihnen verbunden.

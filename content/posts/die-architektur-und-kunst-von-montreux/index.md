@@ -3,7 +3,7 @@ title = "Die Architektur und Kunst von Montreux"
 date = "2022-10-09"
 draft = false
 pinned = false
-tags = ["Montreux", "Architektur", "Kunst"]
+tags = ["Montreux", "Architektur", "Kunst", "IsabelleThiltgès"]
 image = "vogel.jpg"
 +++
 **A﻿rchitektur**

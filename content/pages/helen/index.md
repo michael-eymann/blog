@@ -1,6 +1,6 @@
 +++
-title = "Helen"
+title = "Helen - Das ewige Warten auf Helen"
 draft = false
 footnotes = "[Zurück](/about/) zur Übersicht"
 +++
-Portrait
+Helen war schon ihre ganze Kindheit sehr Energiegeladen und Bewegte sich gerne, schon ihre Kindergärtner\*innen wollten sie Für eine Sportart überzeugen, sie ging also schon in jungen Jahren ins Geräteturnen und macht es bis heute, mittlerweile schon 10 Jahre. Auch ihr jüngerer Bruder ist sehr sportbegeistert und sehr begabt darin. Nach der Schule und am Wochenende schaut sie sehr gerne Serien, sie hat mindestens 10 begonnen und noch keine zu Ende geschaut. Sie hat die Zeit manchmal nicht unter Kontrolle und ist oft bei Treffen mit Freund\*innen zu spät. Zur Schule muss sie manchmal auch etwas pressieren, zum Glück kann sie schnell laufen. Wenn sie mit Freund*innen backt, kickt ihre Vergesslichkeit und sie vergisst das Mehl in den Teig zu machen. Ihr Musikgeschmack hat sie noch nicht gefunden, er ist noch in Entwicklungsphase. Um den Hals trägt sie Tag und Nacht ihre Kette mit bunten Steinchen dran, sie hat sie schon ihr Leben lang.

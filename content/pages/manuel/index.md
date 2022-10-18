@@ -1,5 +1,5 @@
 +++
-title = "Manuel - der Ronaldofan"
+title = "Manuel, der Ronaldofan"
 draft = false
 footnotes = "[Zurück](/about/) zur Übersicht"
 +++

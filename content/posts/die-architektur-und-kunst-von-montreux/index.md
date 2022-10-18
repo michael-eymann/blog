@@ -8,7 +8,7 @@ image = "vogel.jpg"
 +++
 **A﻿rchitektur**
 
-Montreux hat nicht nur eine wunderschöne Landschaft, sondern ist auch reich an schöner Architektur. Wenn man durch die Strassen von Montreux geht fällt einem auf jeden Fall auf, dass die Gebäude alle sehr verschieden sind. Ob antik oder zeitgenössisch, es ist von Allem etwas dabei.  Wenn man am Seeufer von Montreux entlang schaut gibt es aber auch ein oder zwei Gebäude, welche negativ herausstechen weil sie sehr modern sind und nicht ins Gesamtbild passen. Trotzdem ist die Architektur von Montreux wahrlich ein Hingucker. 
+Montreux hat nicht nur eine wunderschöne Landschaft, sondern ist auch reich an schöner Architektur. Wenn man durch die Strassen von Montreux geht, fällt einem auf jeden Fall auf, dass die Gebäude alle sehr verschieden sind. Ob antik oder zeitgenössisch, es ist von Allem etwas dabei.  Wenn man am Seeufer von Montreux entlang schaut gibt es aber auch ein oder zwei Gebäude, welche negativ herausstechen weil sie sehr modern sind und nicht ins Gesamtbild passen. Trotzdem ist die Architektur von Montreux wahrlich ein Hingucker. 
 
 **K﻿unst**
 

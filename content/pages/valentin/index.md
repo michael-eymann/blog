@@ -1,5 +1,5 @@
 +++
-title = "Reich und Sympathisch (Valentin)"
+title = "Reich und sympathisch (Valentin)"
 draft = false
 description = "Valentin - Vatolin - Vali - Valontä"
 footnotes = "[Zurück](/about/) zur Übersicht"

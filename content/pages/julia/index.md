@@ -1,5 +1,5 @@
 +++
-title = "Julia die Eiskunstläuferin"
+title = "Julia, die Eiskunstläuferin"
 draft = false
 footnotes = "[Zurück](/about/) zur Übersicht"
 +++

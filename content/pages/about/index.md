@@ -23,7 +23,7 @@ Diese Seite haben wir im Rahmen der Blockwoche 2022 am [Gymnasium Kirchenfeld](h
 [Leo](/leo/)\
 [Patrizia](/patrizia/)\
 [Gabriela](/gabriela/)\
-[Marilù](/marilu/)\
+[Marilù](/mariu/)\
 [Shima](/shima/)\
 [Raphael](/raphael/)\
 [Helen](/helen/)\
